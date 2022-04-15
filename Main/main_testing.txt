@@ -1,0 +1,64 @@
+Start of Indexing Strings Demo
+Type a string (q - to quit):
+ABCDEFGHIJKLMNOPQRSTWXYZ
+Type the character position within the string:
+24
+Wrong position... type again, please
+Type the character position within the string:
+7
+The character found at 7 position is 'H'
+Type a string (q - to quit):
+a b c d e f g
+Type the character position within the string:
+1
+The character found at 1 position is ' '
+Type a string (q - to quit):
+123456
+Type the character position within the string:
+7
+Wrong position... type again, please
+Type a string (q - to quit):
+q
+ End of Indexing Strings Demo
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Shah
+Type the 2nd string:
+@24
+Concatenated string is Shah@24
+Type the 1st string (q - to quit):
+Q
+Type the 2nd string:
+q
+Concatenated string is Qq
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+2147483647
+Converted number is 2147483647
+Type the int numeric string (q - to quit):
+2147483648
+Converted number is 2147483647
+Type the int numeric string (q - to quit):
+Hello@123
+Converted number is 0
+Type the int numeric string (q - to quit):
+q
+*** End of Converting strings to int Demo ***
+
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+hello                 world   !!
+Word #1 is 'hello'
+Word #2 is 'world'
+Word #3 is '!!'
+Type a few words separated by space (q - to quit):
+Q
+Word #1 is 'Q'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***

@@ -1,0 +1,50 @@
+ Start of Indexing Strings Demo
+Type a string (q - to quit):
+ABCDEFGHIJKLMNOPQRSTWXYZ
+Type the character position within the string:
+24
+Wrong position... type again, please
+Type the character position within the string:
+123456
+Wrong position... type again, please
+Type the character position within the string:
+7
+The character found at 7 position is 'H'
+Type a string (q - to quit):
+a b c d e f g
+Type the character position within the string:
+1
+The character found at 1 position is ' '
+Type a string (q - to quit):
+hola como estas bien y tu hello how are you good and you ? Version 1 2 3 4 5 6 7 purpose
+Type the character position within the string:
+hola como estas bien y tu hello how are you good and you ? Version 1 2 3 4 5 6 7 purpose 123456789123456789123456789123456789
+The character found at 0 position is 'h'
+Type a string (q - to quit):
+ksjdfblasjkdbflaksjdfbalskjdbfalksjdfblaksdjfbalksdjfbalskdjfbasdlkfjbasdlkfjasdbflkasdjfbasldkjfbasdlkzzzzzzzzzzzzzzzzzzzzzzz
+Type the character position within the string:
+105
+The character found at 105 position is '0'
+Type a string (q - to quit):
+3a
+Type the character position within the string:
+0
+The character found at 0 position is '3'
+Type a string (q - to quit):
+abcdef
+Type the character position within the string:
+2.5
+The character found at 2 position is 'c'
+Type a string (q - to quit):
+123456
+Type the character position within the string:
+5
+The character found at 5 position is '6'
+Type a string (q - to quit):
+Q
+Type the character position within the string:
+q
+The character found at 0 position is 'Q'
+Type a string (q - to quit):
+q
+ End of Indexing Strings Demo
